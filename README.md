@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/linkedin-Akshit-blue)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-Akshit-blue)](https://www.linkedin.com/in/akshit-kumar-137559233/)
+[![twitter Badge](https://img.shields.io/twitter/url?label=akshit&style=social&url=https%3A%2F%2Ftwitter.com%2FAkshit2106)](https://twitter.com/Akshit2106)
+[![Website Badge](https://img.shields.io/badge/Stack-Overflow-orange)](https://stackoverflow.com/users/20052046/akshit-kumar)
+[![Website Badge](https://img.shields.io/badge/Website-Akshit-yellowgreen)](      )
 
 I'm
 Full Stack Solution Architect
